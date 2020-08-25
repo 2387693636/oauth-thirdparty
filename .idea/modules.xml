@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account/account.iml" filepath="$PROJECT_DIR$/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/account-parent.iml" filepath="$PROJECT_DIR$/.idea/account-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openplatform_java_sdk-dev/aweme-openapi.iml" filepath="$PROJECT_DIR$/openplatform_java_sdk-dev/aweme-openapi.iml" />
+    </modules>
+  </component>
+</project>
